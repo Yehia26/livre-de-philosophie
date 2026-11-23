@@ -1,0 +1,5 @@
+assets/fonts/
+*.pdf
+*.docx
+!assets/reference.docx
+__pycache__/
